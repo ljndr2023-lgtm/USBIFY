@@ -1,0 +1,6 @@
+pygame-ce
+python-vlc
+mutagen
+yt-dlp
+pillow
+requests
